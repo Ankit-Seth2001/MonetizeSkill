@@ -1,2 +1,1 @@
 # MonetizeSkill
-# MonetizeSkill
